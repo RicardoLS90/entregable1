@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.box {
+  width: 600px;
+  height: 300px;
+  background-color: aliceblue;
+  display: flex;
+  gap: 30px;
+  padding: 30px;
+}
+
+.fa-quote-left {
+  font-size: 100px;
+}
+
+.quote {
+  text-align: center;
+}
+
+.fa-shuffle {
+  font-size: 70px;
+}
+
